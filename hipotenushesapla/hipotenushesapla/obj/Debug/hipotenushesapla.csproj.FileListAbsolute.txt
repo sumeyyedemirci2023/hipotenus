@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\hipotenushesapla\hipotenushesapla\bin\Debug\hipotenushesapla.exe.config
+C:\Users\User\source\repos\hipotenushesapla\hipotenushesapla\bin\Debug\hipotenushesapla.exe
+C:\Users\User\source\repos\hipotenushesapla\hipotenushesapla\bin\Debug\hipotenushesapla.pdb
+C:\Users\User\source\repos\hipotenushesapla\hipotenushesapla\obj\Debug\hipotenushesapla.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hipotenushesapla\hipotenushesapla\obj\Debug\hipotenushesapla.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\hipotenushesapla\hipotenushesapla\obj\Debug\hipotenushesapla.lblXcvp.resources
+C:\Users\User\source\repos\hipotenushesapla\hipotenushesapla\obj\Debug\hipotenushesapla.Properties.Resources.resources
+C:\Users\User\source\repos\hipotenushesapla\hipotenushesapla\obj\Debug\hipotenushesapla.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hipotenushesapla\hipotenushesapla\obj\Debug\hipotenushesapla.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hipotenushesapla\hipotenushesapla\obj\Debug\hipotenushesapla.exe
+C:\Users\User\source\repos\hipotenushesapla\hipotenushesapla\obj\Debug\hipotenushesapla.pdb
